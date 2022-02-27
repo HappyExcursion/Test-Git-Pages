@@ -1,2 +1,3 @@
-# Test-Git-Pages
-I'm trying to make a blog!
+# My Blog
+
+I'm trying to make a blog with Github Pages!
