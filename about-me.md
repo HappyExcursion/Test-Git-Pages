@@ -8,4 +8,5 @@
 2. I have an electric skateboard
 3. I grew up with John Lennon, space shuttle pictures from science magazines, and communist ideology.
 
+
 - [Back to Home Page](index.md)
