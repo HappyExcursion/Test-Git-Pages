@@ -8,8 +8,8 @@
 
 Regardless of nationality, race, creed, color or sex, every man, every woman who toils, who renders useful useful service, every member of the working class without exception, is my comrade, my brother and sister, and that to serve them and their cause is the highest duty of my life.
 
-Watch Bernie's speaches here:
-[Bernie Sanders reads Debs Canton Ohio speech](https://youtu.be/DmsODPlwdVI)
+Watch Bernie's speaches here:  
+[Bernie Sanders reads Debs Canton Ohio speech](https://youtu.be/DmsODPlwdVI)  
 [30 Years of Speeches](https://youtu.be/SYxZfksAyco)
 
 - [About Me](about-me.md)
