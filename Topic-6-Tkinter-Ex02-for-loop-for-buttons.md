@@ -20,9 +20,13 @@ The buttons don't have any text. To assign the appropriate number for each butto
 				button.grid(row=i, column=j)
 
 Here I'm using f string (formated string) to pass in the text parameter. It can also be achieved in other ways:
-* text = str(index) # text takes a string so we need to convert the inteegr index into a string
-* text = "{}".format(index)
-f string is usually used when including a variable in a string in Python 3
+* text takes a string so we need to convert the inteegr index into a string
+
+		text = str(index) 
+
+* string.format
+
+		text = "{}".format(index)
 
 That still leaves on important problem, the command function which the button press evokes. It'd be tempting to do:
 
