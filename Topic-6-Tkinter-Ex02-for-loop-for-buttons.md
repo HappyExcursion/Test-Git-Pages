@@ -15,7 +15,7 @@ The buttons don't have any text. To assign the appropriate number for each butto
 	for i in range(3):
 		# create the 3 buttons in one row
 			for j in range(3):
-				index = i\*3 + j + 1 
+				index = i*3 + j + 1 
 				button= Button(text = f"{index}")
 				button.grid(row=i, column=j)
 
@@ -35,7 +35,7 @@ That still leaves on important problem, the command function which the button pr
 	for i in range(3):
 		# create the 3 buttons in one row
 			for j in range(3):
-				index = i\*3 + j + 1 
+				index = i*3 + j + 1 
 				button= Button(text = f"{index}", command = btn_handler(index))
 				button.grid(row=i, column=j)
 
