@@ -14,3 +14,5 @@ Watch Bernie's speaches here:
 
 - [About Me](about-me.md)
 - [Brisbane Basics](brisbane-basics.md)
+
+[Topic 6 Ex02](Topic-6-Tkinter-Ex02-for-loop-for-buttons.md)
