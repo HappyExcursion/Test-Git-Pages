@@ -10,7 +10,7 @@ Because buttons are arranged in rows, we can use a for loop for the rows:
 				button= Button()
 				button.grid(row=i, column=j)
 
-The buttons don't have any text. To assign the appropriate number for each button, we need a way to track each buttons (*nth* button is being created). There're 3 buttons in a row, so for a given row, n (counter) should be i (counter for row, (0...2)) \* 3 + j + 1 (j starts at 0 so we need to add one to it):
+The buttons don't have any text. To assign the appropriate number for each button, we need a way to track each buttons (*nth* button is being created). There're 3 buttons in a row, so for a given row, n (counter) should be $i$ (counter for row, (0...2)) $* 3 + j + 1$ (j starts at 0 so we need to add one to it):
 
 	for i in range(3):
 		# create the 3 buttons in one row
