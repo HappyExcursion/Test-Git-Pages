@@ -1,3 +1,5 @@
+# Topic 6 Tkinter Ex02 for loop for buttons
+
 An alternative way of constructing the buttons would be using for loops. The bottons in the passcode exercise all have the same size and shape, so it's possible to use for loops to create them.
 
 Because buttons are arranged in rows, we can use a for loop for the rows:
