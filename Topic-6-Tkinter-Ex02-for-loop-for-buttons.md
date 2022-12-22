@@ -32,6 +32,7 @@ That still leaves on important problem, the command function which the button pr
 				index = i\*3 + j + 1 
 				button= Button(text = f"{index}", command = btn_handler(index))
 				button.grid(row=i, column=j)
+
 Output:
 
 	123456789
