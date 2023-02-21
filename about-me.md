@@ -1,12 +1,13 @@
 # About Me
 
-### Sorry, I don't have any personal information to share.
+### I like happy humans.
 
 ### Spot a white lie:
 
-1. I hate my life
+1. I have rapunzel length hair
 2. I have an electric skateboard
-3. I grew up with John Lennon, space shuttle pictures from science magazines, and communist ideology.
+3. I grew up with John Lennon, space shuttle pictures from science magazines, and communist ideology
+4. I can touch type for all symbols on the keyboard including ~ (tilda)
 
 
 ### [What I Have Lived For](https://users.drew.edu/jlenz/br-prolog.html) -- Bertrand Russell
