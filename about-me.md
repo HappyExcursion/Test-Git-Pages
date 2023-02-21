@@ -1,6 +1,9 @@
 # About Me
 
 ### I like happy humans.
+### I try to create software to make people's life easier
+### Robotics & Machine Learning
+### Simplifying complexity
 
 ### Spot a white lie:
 
